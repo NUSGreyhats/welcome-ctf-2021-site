@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://nusgreyhats.org/welcome-ctf-2021-site/"
 languageCode = "en-us"
 theme = "hello-friend-greyhats"
 paginate = 5
