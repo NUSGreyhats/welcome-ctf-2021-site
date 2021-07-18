@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'FiraCode';
+  font-style: normal;
+  font-weight: 400;
+  font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl";
+  src: url("../fonts/FiraCode-Regular.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FiraCode';
+  font-style: normal;
+  font-weight: 600;
+  font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl";
+  src: url("../fonts/FiraCode-Medium.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FiraCode';
+  font-style: normal;
+  font-weight: 800;
+  font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl";
+  src: url("../fonts/FiraCode-Bold.ttf") format("ttf");
+  font-display: swap;
+}
