@@ -25,3 +25,4 @@ Online
 
 {{< image src="poster.png" position="center" title="Poster" >}}
 
+**Sign up now at https://nusgreyhats.org/ctfreg**
