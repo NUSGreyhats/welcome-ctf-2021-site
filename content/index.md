@@ -25,7 +25,16 @@ Online
 
 ### $ prize
 
-TBA
+Only Teams with ALL NUS students who use their NUS emails are eligible for prizes. Winners *must* submit a writeup to qualify for prizes.
+
+- 1st Place: <span style="color: gold;">🥇 $240 + 4 mice</span>
+- 2nd Place: <span style="color: #c0c0c0;">🥈 $160 + 4 mice</span>
+- 3rd Place: <span style="color: #cd7f32;">🥉 $100 + 4 mice</span>
+---
+- 18 mice for the top individual scorers (across teams).
+- 10 mice for top writeups, upto the Challenge Creators' discretion.
+
+Mice courtesy of DSTA.
 
 ### $ FAQ
 
