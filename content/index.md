@@ -44,6 +44,8 @@ Yes, because we will verify that each team member is a NUS student if your team 
 #### Is there a signup deadline?
 You can signup anytime before the competition ends. But ideally please try to sign up before 13th August 2021 to not lose out in terms of time.
 
+Email us at contact@nusgreyhats.org to sign up.
+
 #### How to join us?
 We are not recruiting new members for now... However, please look forward to our weekly Security Wednesday sharing sessions this semester — a good opportunity for you to learn more about us and the things that we do! We will be releasing details soon via email so stay tuned!
 
